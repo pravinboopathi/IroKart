@@ -1,0 +1,5 @@
+--- RLS Policies ---
+Could not fetch policies: Could not find the function public.get_policies without parameters in the schema cache
+
+--- Attempting Test Insert (via Admin, should work) ---
+Insert Success! Order ID: 1fedc0ab-0ed3-41ff-8327-20cd64237396
